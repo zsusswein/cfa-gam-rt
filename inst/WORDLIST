@@ -14,6 +14,7 @@ PMF
 README
 SEIR
 USC
+aWTEG
 al
 benchmarked
 benchmarking
@@ -21,17 +22,17 @@ cdc
 chapman
 codecov
 convolved
+defnotwordword
 doi
 edf
 et
-gam
 http
 https
 maxiumum
 md
 mgcv
-modelling
 nolint
+notnotwordword
 nowcast
 oversmoothing
 pkgdown
